@@ -1,0 +1,49 @@
+body {
+    background-color: #f5d9d5;
+    font-size: 1.5rem;
+
+}
+
+#mainNavbar .navbar-brand {
+    color: rgba(250, 18, 18, 0.835);
+    font-weight: 100;
+}
+
+#mainNavbar .nav-link {
+    color:#fff;
+
+}
+
+#blurb h2 {
+    color:  rgba(250, 18, 18, 0.835);
+    font-weight: 100;
+    font-size: 2.5rem;
+}
+
+#blurb p {
+    color: rgb(207, 88, 108);
+}
+
+.content {
+    margin-bottom: 8rem;
+}
+
+#mainNavbar .nav-link:hover {
+    color:  rgba(250, 18, 18, 0.835);
+}
+
+#header div h2 {
+    font-size: 4rem;
+    font-weight: 100;
+
+}
+
+#header div h2 span {
+    color:  rgba(250, 18, 18, 0.835);
+}
+
+@media (max-width:1200px) {
+    #header div h2 {
+        font-size: 3rem;
+    }
+}
